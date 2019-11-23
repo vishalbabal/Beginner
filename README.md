@@ -1,1 +1,1 @@
-# CodeChef_Practice
+# CodeChef-Beginner
