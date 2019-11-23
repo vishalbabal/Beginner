@@ -1,1 +1,1 @@
-# CodeChef-Beginner
+# Beginner
